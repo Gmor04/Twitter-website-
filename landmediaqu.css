@@ -1,0 +1,141 @@
+@media (max-width:1310px) { .birdbg{ width: 50% !important;
+                          height: 90vh !important;
+               display: flex !important;
+               justify-content: center !important;
+               align-items: center !important;
+}
+.myicon{ 
+    font-size: 300px;
+    }
+.sidebar{ width: 50% !important;
+
+}
+.seccard{ width: 95% !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}  
+.happen{ 
+    font-size: 45px;
+    }
+    .join{ 
+    font-size: 30px;
+    margin-top: 2%;
+    }
+    .signinbtn{ width: 70%;
+    }
+    .mybut{ width: 70%;
+    }
+    .hr{ width: 70%;
+    
+    }
+    .butsig{ width: 70%;
+    
+    }
+    .by{ width: 70%;
+    
+    }
+    .all{ margin-top: 2%;
+    
+    }
+    .butsigg{ width: 70%;
+    margin-top: 0;
+    
+    }
+
+}
+
+@media (max-width:998px) { .myrow{ display: flex;
+    flex-direction: column-reverse;
+}
+.sidebar{ display: flex !important;
+justify-content: center !important;
+align-items: center !important;
+width: 100% !important;
+
+}
+.seccard{  margin-left: 15% !important;
+          
+
+}
+.birdbg{ width: 100% !important;
+      height: 60vh !important;
+    margin-top: 4% !important;
+
+}
+.myicon{ 
+    font-size: 300px;
+    }
+    .happen{ 
+    font-size: 47px;
+    }
+    .join{ 
+    font-size: 30px;
+    margin-top: 2%;
+    }
+    .signinbtn{ width: 60%;
+    }
+    .mybut{ width: 60%;
+    }
+    .hr{ width: 60%;
+    
+    }
+    .butsig{ width: 60%;
+    
+    }
+    .by{ width: 60%;
+    
+    }
+    .all{ margin-top: 0;
+    
+    }
+    .butsigg{ width: 60%;
+    margin-top: 0;
+    
+    }
+}
+
+
+@media (max-width:575px) { .myrow{ display: flex;
+    flex-direction: column-reverse;
+}
+.birdbg{ 
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 3% !important;
+height: 50vh !important;
+
+}
+.myicon{ 
+font-size: 200px;
+}
+.happen{ 
+font-size: 40px;
+}
+.join{ 
+font-size: 25px;
+}
+.signinbtn{ width: 95%;
+}
+.mybut{ width: 95%;
+}
+.hr{ width: 95%;
+
+}
+.butsig{ width: 95%;
+
+}
+.by{ width: 95%;
+
+}
+.all{ margin-top: 0;
+
+}
+.butsigg{ width: 95%;
+margin-top: 0;
+
+}
+}
+
+
+

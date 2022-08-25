@@ -1,0 +1,322 @@
+.myrow{ display: flex;
+
+}
+.birdbg{ width: 50%;
+         height: 90vh;
+         background-image: url(landpgimg.png);
+         background-size: contain;
+         display: flex;
+         justify-content: center;
+         align-items: center;
+
+}
+.sidebar{ width: 50%;
+       
+         
+
+}
+.myicon{ color: white;
+    font-size: 350px;
+    /* margin-top: auto;
+    margin-bottom: auto */
+
+
+}
+.seccard{
+    border-radius: 0 !important;
+    box-shadow: none !important;
+    border: none !important;
+    width: 88% ;
+    margin: auto;
+}
+.bluebird{ margin-top: 5%;
+
+}
+.my2icon{ color: rgb(29,155,240) ;
+    font-size: 40px;
+
+}
+.happen{ font-family: monospace;
+    font-size: 70px;
+    font-weight: 700;
+    margin-top: 6%;
+
+}
+.join{ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 38px;
+    font-weight: 650;
+    margin-top: 4%;
+
+}
+.signinbtn{ width: 45%;
+            border-radius: 30px;
+            background-color: transparent;
+            border: 1px solid rgb(207,217,222);
+            margin-top: 4%;
+
+
+}
+.signinbtn:hover{ background-color: rgb(207,217,222);
+    color:rgb(15,20,25); 
+
+}
+.mysingbtn{ display: flex;
+            justify-content: center;
+            padding-top: 1%;
+            padding-bottom: 1%;
+           
+
+}
+.icon-google{ width: 17px;
+    height: 8px;
+    margin-right: 2%;
+
+}
+.myapp{ font-weight: 550;
+    font-size: 18px;
+    color:rgb(15,20,25); 
+    font-family: monospace;
+
+}
+.mybut{ width: 45%;
+    border-radius: 30px;
+    background-color: transparent;
+    border: 1px solid rgb(207,217,222);
+    margin-top: 2%;
+
+}
+.mybut:hover{ background-color: rgb(207,217,222);
+    color:rgb(15,20,25); 
+
+}
+.appl{ font-size: 23px;
+    color: rgb(15,20,25);
+    
+}
+.icon-apple{ margin-right: 2%;
+
+}
+.hr{ width: 45%;
+    height: 1px;
+    color: rgb(207,217,222) ;
+
+}
+.butsig{ width: 45%;
+    border-radius: 30px;
+    background-color: rgb(29,155,240);
+    border: none;
+    padding-top: 1%;
+    padding-bottom: 1%;
+
+}
+.butsig:hover{ background-color: rgba(29, 156, 240, 0.747) ;
+
+}
+.emm{  
+    color: rgb(255,255,255);
+    font-family: monospace;
+    font-weight: 550;
+     font-size: 17px;
+}
+.by{ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 12px;
+    font-weight: 200;
+    width: 45%;
+    margin-top: 1%;
+
+}
+.all{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    margin-top: 4%;
+
+}
+.butsigg{ background-color: transparent;
+    border: 1px solid rgb(207,217,222);
+    width: 45%;
+    border-radius: 30px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+
+}
+.butsigg:hover{ background-color: rgba(144, 238, 144, 0.315);
+}
+.emmm{   color: rgb(29,155,240); 
+    font-family: monospace;
+    font-weight: 550;
+     font-size: 17px;
+}
+.abt{ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 1%;
+
+}
+
+
+.endbttn{ 
+          padding-top: 1%;
+          /* height: 65vh; */
+}
+.create{ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 3%;
+
+}
+.myinp:focus{ box-shadow: none !important;
+               outline: 1px solid rgb(29,155,240)!important;
+
+}
+.use{ display: flex;
+       justify-content: end;
+       margin-top: 2%;
+}
+.ema{ text-decoration: none;
+
+}
+.dat{ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 15px;
+        font-weight: 600;
+
+}
+.this{ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    font-weight: 350;
+}
+.myselect:focus{  box-shadow: none !important;
+    outline: 1px solid rgb(29,155,240)!important;
+
+}
+.nex{
+    display: flex;
+    justify-content: center;
+    margin-top: 20%;
+    
+}
+.nextbtn{
+    width: 98%;
+    border-radius: 30px;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    background-color: rgb(135,138,140);
+    border: none;
+}
+.anextbtn{
+    width: 98%;
+    border-radius: 30px;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    background-color: rgb(135,138,140);
+    border: none;
+}
+.ext{
+    color: white; 
+    font-family: monospace;
+    font-weight: 550;
+     font-size: 17px;
+}
+.signbrd{ font-size: 35px;
+          color: rgb(29,155,240) ;
+
+}
+.mylabel:focus-within  .mylabell{ color: rgb(29,155,240) !important;
+
+}
+.signb{ 
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.createe{font-family: monospace;
+    font-size: 28px;
+    font-weight: 700;
+    margin-top: 2%;
+    text-align: center;
+
+}
+.signinbtnn{ width: 65%;
+    border-radius: 30px;
+    background-color: transparent;
+    border: 1px solid rgb(207,217,222);
+    margin-top: 6%;
+    
+
+
+}
+.signinbtnn:hover{ background-color: rgba(144, 238, 144, 0.171);
+color:rgb(15,20,25); 
+
+}
+.mybutt{ width: 65%;
+    border-radius: 30px;
+    background-color: transparent;
+    border: 1px solid rgb(207,217,222);
+    margin-top: 3%;
+
+}
+.mybutt:hover{ background-color: rgb(207,217,222);
+    color:rgb(15,20,25); 
+
+}
+.hrr{ width: 75%;
+    height: 1px;
+    color: rgb(207,217,222) ;
+    
+
+}
+.brodadiv{ text-align: center;
+        
+}
+.brodadivv{ font-size: 17px;
+    margin-top: 2%;
+}
+.users{ width: 62% !important;
+    margin-top: 0 !important;
+
+}
+.usersss{
+    display: flex;
+    justify-content: center;
+   
+}
+.nextbtnn{
+    width: 65%;
+    border-radius: 30px;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    background-color: rgba(0, 0, 0, 0.822);
+    border: none;
+    margin-top: 5%;
+    margin-bottom: 2%;
+}
+.doo{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: rgb(123,136,146);
+    margin-top: 10%;
+    padding-bottom: 12%;
+}
+.forgeet{ display: flex;
+    justify-content: start;
+    /* margin-top: 2%; */
+}
+.mydhid{
+    visibility: hidden;
+}
+.nexx{
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+    
+}
+.dood{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: rgb(123,136,146);
+    margin-top: 2%;
+    padding-bottom: 2%;
+}

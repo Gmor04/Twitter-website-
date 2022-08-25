@@ -1,0 +1,456 @@
+@media (max-width:1270px){
+    .bbigconta{ width: 90% !important;
+        margin-left: auto;
+        margin-right: auto;
+   
+   }
+   .virtuadiv{
+    /* visibility: hidden; */
+    display: none;
+}
+.mycont{
+    width: 100% !important;
+    /* background-color: aqua; */
+    
+    
+}
+    .myfirstside{ width: 8% !important;
+        
+    
+}
+.mysecondside{width: 62% !important;
+    margin-left: 9%;
+    /* background-color: brown; */
+}
+.mprofff{
+    width: 10%;
+    height: 6vh;
+    border-radius: 50%;
+ /* border: 1px solid black; */
+ display: flex;
+ background-color: rgb(0,18,98);
+ justify-content: center;
+ align-items: center;
+ margin-left: 2%;
+}
+
+.mythirdside{ width: 30% !important;
+    
+}
+.myyrow{  display: flex;
+    justify-content: center;
+}
+.hometex{
+    display: none;
+}
+.explotex{
+    display: none;
+}
+.icondiv{ margin-left: auto;
+    margin-right: auto;
+}
+.homediv{ margin-top: 20%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.notfdiv{ margin-top: 20%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.messdiv{ margin-top: 20%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.mytweet{
+    display: none;
+}
+.bbaab{ display: flex;
+    justify-content: center;
+    margin-top: 7%;
+}
+
+.svvgdiv{ display: block;
+     width: 70%;
+    height: 8vh;
+    border-radius: 30px;
+    background-color: rgb(29,155,240);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.svvg{
+width:28px ;
+}
+.tttal{
+    width: 100%;
+    height: 15vh;
+    /* border: 1px solid black; */
+    display: flex;
+    align-items: flex-end;
+    
+}
+.mypic{ width: 70%;
+    height: 8vh;
+    display: flex;
+    justify-content:center;
+    /* border: 1px solid black; */
+    border-radius: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0% !important;
+
+}
+.mprof{ width: 100%;
+    height: 8vh;
+    border-radius: 30px;
+ /* border: 1px solid black; */
+ display: flex;
+ background-color: rgb(0,18,98);
+ justify-content: center;
+ align-items: center;
+ margin-left: 0;
+
+}
+.G{
+    font-size: 30px;
+}
+.niyi{
+    display: none;
+}
+.stubdi{
+    display: none;
+}
+.oyoo1{
+    height: 35vh;
+}
+
+
+}
+
+
+
+
+@media (max-width:970px) { 
+    .bbigconta{ width: 90% !important;
+        margin-left: auto;
+        margin-right: auto;
+   
+   }
+   .virtuadiv{
+       /* visibility: hidden; */
+       display: none;
+   }
+    .mycont{
+    width: 100% !important;
+    /* background-color: aqua; */
+    
+    
+}
+    .myfirstside{ width: 10% !important;
+        
+    
+}
+.mysecondside{width: 90% !important;
+    margin-left: 10%;
+    /* background-color: brown; */
+}
+.mprofff{
+    width: 11%;
+    height: 6vh;
+    border-radius: 50%;
+ /* border: 1px solid black; */
+ display: flex;
+ background-color: rgb(0,18,98);
+ justify-content: center;
+ align-items: center;
+ margin-left: 2%;
+}
+
+.mythirdside{
+    display: none;
+}
+.myyrow{  display: flex;
+         justify-content: center;
+}
+.hometex{
+    display: none;
+}
+.explotex{
+    display: none;
+}
+.icondiv{ margin-left: auto;
+    margin-right: auto;
+}
+.homediv{ margin-top: 20%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.notfdiv{ margin-top: 20%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.messdiv{ margin-top: 20%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.mytweet{
+    display: none;
+}
+.bbaab{ display: flex;
+    justify-content: center;
+    margin-top: 7%;
+}
+
+.svvgdiv{ display: block;
+     width: 70%;
+    height: 8vh;
+    border-radius: 30px;
+    background-color: rgb(29,155,240);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.svvg{
+width:28px ;
+}
+.tttal{
+    width: 100%;
+    height: 15vh;
+    /* border: 1px solid black; */
+    display: flex;
+    align-items: flex-end;
+    
+}
+.mypic{ width: 70%;
+    height: 8vh;
+    display: flex;
+    justify-content:center;
+    /* border: 1px solid black; */
+    border-radius: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0% !important;
+
+}
+.mprof{ width: 100%;
+    height: 8vh;
+    border-radius: 30px;
+ /* border: 1px solid black; */
+ display: flex;
+ background-color: rgb(0,18,98);
+ justify-content: center;
+ align-items: center;
+ margin-left: 0;
+
+}
+.G{
+    font-size: 30px;
+}
+.niyi{
+    display: none;
+}
+.stubdi{
+    display: none;
+}
+.oyoo1{
+    height: 30vh;
+}
+
+}
+@media (max-width:710px) { 
+    .bbigconta{ width: 95% !important;
+        margin-left: auto;
+        margin-right: auto;
+   
+   }
+   .virtuadiv{
+    /* visibility: hidden; */
+    display: none;
+}
+    .mycont{
+    width: 100% !important;
+    /* background-color: aqua; */
+    
+    
+}
+    .myfirstside{ width: 10% !important;
+    
+}
+.mysecondside{width: 90% !important;
+    margin-left: 11%;
+    /* background-color: brown; */
+}
+.mprofff{
+    width: 12%;
+    height: 6vh;
+    border-radius: 50%;
+ /* border: 1px solid black; */
+ display: flex;
+ background-color: rgb(0,18,98);
+ justify-content: center;
+ align-items: center;
+ margin-left: 2%;
+}
+
+.mythirdside{
+    display: none;
+}
+.myyrow{  display: flex;
+         justify-content: center;
+}
+.hometex{
+    display: none;
+}
+.explotex{
+    display: none;
+}
+.icondiv{ margin-left: auto;
+    margin-right: auto;
+}
+.homediv{ margin-top: 20%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.notfdiv{ margin-top: 20%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.messdiv{ margin-top: 20%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.mytweet{
+    display: none;
+}
+.bbaab{ display: flex;
+    justify-content: center;
+    margin-top: 10%;
+}
+
+.svvgdiv{ display: block;
+     width: 70%;
+    height: 7vh;
+    border-radius: 30px;
+    background-color: rgb(29,155,240);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.svvg{
+width:28px ;
+}
+.tttal{
+    width: 100%;
+    height: 17vh;
+    /* border: 1px solid black; */
+    display: flex;
+    align-items: flex-end;
+    
+}
+.mypic{ width: 70%;
+    height: 7vh;
+    display: flex;
+    justify-content:center;
+    /* border: 1px solid black; */
+    border-radius: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0% !important;
+
+}
+.mprof{ width: 100%;
+    height: 7vh;
+    border-radius: 30px;
+ /* border: 1px solid black; */
+ display: flex;
+ background-color: rgb(0,18,98);
+ justify-content: center;
+ align-items: center;
+ margin-left: 0;
+
+}
+.G{
+    font-size: 30px;
+}
+.niyi{
+    display: none;
+}
+.stubdi{
+    display: none;
+}
+.oyoo1{
+    height: 30vh;
+}
+
+}
+
+
+
+@media (max-width:510px) {
+    .bbigconta{ width: 99% !important;
+        margin-left: auto;
+        margin-right: auto;
+   
+   }
+   .mycont{
+    width: 100% !important;
+    /* background-color: aqua; */
+    
+    
+}
+    .virtuadiv{
+        /* visibility: hidden; */
+        display: none;
+    }
+    .myyrow{ 
+        height: 92vh;
+        /* border: 1px solid black; */
+    }
+    .myfirstside{
+        display: none;
+    }
+    .mysecondside{width: 100% !important;
+        /* background-color: brown; */
+        /* margin-left: 1% !important; */
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .mythirdside{
+        display: none;
+    }
+    .mynav{
+        display:block;
+    }
+    .downbar{ width: 98%;
+        height: 8vh !important;
+        background-color: white;
+        /* border: 1px solid black; */
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        position: fixed;
+        bottom: 0;
+        left: 1%;
+          
+
+    }
+    .downbaricon{
+        font-size: 20px;
+        color: rgb(74,78,82);
+    }
+    .oyoo1{
+        height: 20vh;
+    }
+    .proofid{
+        width: 13%;
+        height: 5vh;
+        border-radius: 50%;
+    }
+}
